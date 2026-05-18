@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-color-scheme-button",
+	"name": "Color Scheme Button",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Ribbon toggle for light/dark mode.",
+	"author": "tomp2",
+	"authorUrl": "https://github.com/tomp2/obsidian-color-scheme-button",
 	"isDesktopOnly": false
 }
