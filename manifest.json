@@ -1,7 +1,7 @@
 {
-	"id": "color-scheme-button",
-	"name": "Color Scheme Button",
-	"version": "1.0.0",
+	"id": "dark-mode-button",
+	"name": "Dark Mode Button",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Ribbon toggle for light/dark mode.",
 	"author": "tomp2",

@@ -1,4 +1,4 @@
-# Obsidian Color Scheme Button
+# Obsidian Dark mode Button
 
 Adds a button to the ribbon that changes to the color scheme (dark/light).
 
