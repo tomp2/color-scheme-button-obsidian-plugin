@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-color-scheme-button",
+	"id": "color-scheme-button",
 	"name": "Color Scheme Button",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Ribbon toggle for light/dark mode.",
 	"author": "tomp2",
-	"authorUrl": "https://github.com/tomp2/obsidian-color-scheme-button",
+	"authorUrl": "https://github.com/tomp2",
 	"isDesktopOnly": false
 }

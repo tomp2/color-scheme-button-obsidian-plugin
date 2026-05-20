@@ -1,5 +1,5 @@
 {
-    "name": "obsidian-color-scheme-button",
+    "name": "color-scheme-button",
     "version": "1.0.0",
     "description": "Ribbon toggle for light/dark mode.",
     "main": "main.js",
